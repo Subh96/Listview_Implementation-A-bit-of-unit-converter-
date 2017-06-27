@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string-array name="length">
+        <item>Metre</item>
+        <item>Centimeter</item>
+        <item>Inch</item>
+        <item>Kilometer</item>
+        <item>Decimeter</item>
+    </string-array>
+    <string-array name="length1">
+        <item>Metre</item>
+        <item>Centimeter</item>
+        <item>Inch</item>
+        <item>Kilometer</item>
+        <item>Decimeter</item>
+    </string-array>
+</resources>
